@@ -34,7 +34,7 @@
 ​[深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 
 还有牛客上的一个算法/机器学习校招面试合集，这里面感觉有用的蛮多：
-​[算法/机器学习校招面试题目合集_牛客网](www.nowcoder.com/ta/review-ml?query=&asc=true&order=&tagQuery=&page=1)
+​[算法/机器学习校招面试题目合集_牛客网](https://www.nowcoder.com/ta/review-ml?query=&asc=true&order=&tagQuery=&page=1)
 
 
 Batch Normalization讲解比较全面的一个链接：
