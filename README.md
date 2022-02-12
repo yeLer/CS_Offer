@@ -84,7 +84,7 @@ GitHub - [ShusenTang/LeetCode](https://github.com/ShusenTang/LeetCode)
 有的面试官喜欢问一些编程语言相关的基础知识，尤其是C++。当你熟悉C++的时候，会给你的面试结果加分的。所以说，建议大家也大概看一下与编程语言相关的常见问题：
 
 Python常见问题汇总：
-[必须准备的100个Python面试问题](https://www.wenku.baidu.com/view/1016545b14fc700abb68a98271fe910ef12daed7.html)
+[必须准备的100个Python面试问题](https://zhuanlan.zhihu.com/p/54430650)
 
 [365道面试题_weixin_30662011的博客-CSDN博客](https://blog.csdn.net/weixin_30662011/article/details/98505273)
 
