@@ -31,7 +31,7 @@
 对于深度学习最基本的知识，可以看GitHub上”深度学习500问“的repo，相对来说还是比较全面的：
 
 深度学习500问， 全书分为18个章节,以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。
-​[深度学习500问](github.com/scutan90/DeepLearning-500-questions)
+​[深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 
 还有牛客上的一个算法/机器学习校招面试合集，这里面感觉有用的蛮多：
 ​[算法/机器学习校招面试题目合集_牛客网](www.nowcoder.com/ta/review-ml?query=&asc=true&order=&tagQuery=&page=1)
